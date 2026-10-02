@@ -5,6 +5,7 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight);
   console.log('p5.js version:', p5.VERSION);
+  background colour(red)
   // put setup code here
   const message =
     "This is a template repository\nfor the course Laboratorio di Computergrafica\nCommunication Design, Politecnico di Milano";
